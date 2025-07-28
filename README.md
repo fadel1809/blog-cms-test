@@ -36,8 +36,8 @@ A full-stack Blog CMS built with:
 ## 🧑‍💻 Admin Credentials
 
 ```
-Email: admin@cms.com  
-Password: secret123
+Email: admin 
+Password: admin123
 ```
 
 > Predefined in database seeder (or manually insert via MySQL)
