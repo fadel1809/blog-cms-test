@@ -17,6 +17,7 @@ A full-stack Blog CMS built with:
 - ✅ Responsive & modern UI with shadcn/ui
 - ✅ Pagination on landing page and admin dashboard
 - ✅ RESTful API with proper structure
+- ✅ Caching with client-side caching using SWR
 - ✅ Postman collection provided
 
 ---
