@@ -29,7 +29,6 @@ A full-stack Blog CMS built with:
 | Frontend  | Next.js (App Router), shadcn/ui, TailwindCSS |
 | Database  | MySQL                  |
 | Auth      | JWT                    |
-| Cache     | In-memory (CacheModule Nest.js) |
 | Dev Tools | concurrently, ts-node  |
 
 ---
@@ -60,7 +59,6 @@ Password: secret123
 │       ├── blog
 │       ├── components
 │       └── page.tsx
-├── start.sh
 ├── package.json (with concurrently)
 ```
 
@@ -134,5 +132,5 @@ Unit testing was not included in this project due to time constraints. In a prod
 ---
 
 ## 🙏 Acknowledgement
-
+Should you experience any issues or find the setup instructions unclear, please don’t hesitate to reach out.
 Thank you for the opportunity! Looking forward to your feedback 🙇‍♂️
